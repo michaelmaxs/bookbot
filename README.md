@@ -1,2 +1,3 @@
 # bookbot
-This is a comment.
+
+BookBot is my first git project!
