@@ -16,6 +16,6 @@ def count_words(file_contents):
     return number_of_words   
 
 #def count_letter(file_contents):
-
+#this is a test
 
 main()
