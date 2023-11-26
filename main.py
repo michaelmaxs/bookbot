@@ -2,7 +2,7 @@ def main():
     path = "books/frankenstein.txt"
     file_contents = get_text(path)
     count = count_words(file_contents)
-    print (f"{count} words")
+    print (f"{count} words in file")
 
 def get_text(path):
     with open(path) as f:
